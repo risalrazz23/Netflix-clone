@@ -115,9 +115,3 @@ To get a local copy up and running, follow these simple steps.
     *   **`components/`**: Reusable UI elements.
     *   **`pages/`**: Main views of the application.
     *   **`redux/`**: State management setup.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
